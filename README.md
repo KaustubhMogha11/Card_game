@@ -19,7 +19,7 @@
 <br />
 <div align="center">
   
-![](Screenshots/1.png)
+![](Screenshots/1.jpg)
  
 
   <h3 align="center">Card Game</h3>

@@ -19,11 +19,11 @@
 <br />
 <div align="center">
   
-<!-- ![](screenshots/1.png) -->
+![](Screenshots/1.png)
  
-<!-- 
-  <h3 align="center">Amayra's Shop</h3>
 
+  <h3 align="center">Card Game</h3>
+<!-- 
   <p align="center">
     An awesome E-com plateform to buy fashion trends!
     <br />
@@ -35,8 +35,8 @@
     <a href="https://github.com/KaustubhMogha11/Amyra-Fashion-Store/issues">Report Bug</a>
     ·
     <a href="https://github.com/KaustubhMogha11/Amyra-Fashion-Store/pulls">Request Feature</a>
-  </p>
-</div> -->
+  </p> -->
+</div>
 
 
 
